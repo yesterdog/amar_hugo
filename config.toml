@@ -1,6 +1,6 @@
 baseurl = "https://yesterdog.github.io"
-title = "Kiera"
-copyright = "Copyright &copy; 2017 - Author Name"
+title = "amar chendra"
+copyright = "Copyright &copy; 2017 - amar chendra"
 canonifyurls = true
 theme = "kiera"
 
@@ -11,8 +11,8 @@ enableEmoji = true
 pygmentsCodeFences = true
 
 [author]
-    name = ""
-    github = ""
+    name = "amar chendra"
+    github = "yesterdog"
     gitlab = ""
     linkedin = ""
     facebook = ""
@@ -20,4 +20,4 @@ pygmentsCodeFences = true
     instagram = ""
 
 [params]
-    tagline = "A Hugo theme for creative and technical writing"
+    tagline = ""
